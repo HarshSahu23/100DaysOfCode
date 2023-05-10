@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Q14LC",
+            "request": "launch",
+            "mainClass": "Q14LC",
+            "projectName": "100DaysOfCode_78e63195"
+        },
+        {
+            "type": "java",
+            "name": "Q7LC",
+            "request": "launch",
+            "mainClass": "Q7LC",
+            "projectName": "100DaysOfCode_78e63195"
+        },
+        {
+            "type": "java",
+            "name": "Q8LC",
+            "request": "launch",
+            "mainClass": "Q8LC",
+            "projectName": "100DaysOfCode_78e63195"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "100DaysOfCode_78e63195"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "100DaysOfCode_78e63195"
+        }
+    ]
+}
