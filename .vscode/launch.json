@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q122LC",
+            "request": "launch",
+            "mainClass": "Q122LC",
+            "projectName": "100DaysOfCode_78e63195"
+        },
+        {
+            "type": "java",
             "name": "Q121LC",
             "request": "launch",
             "mainClass": "Q121LC",
