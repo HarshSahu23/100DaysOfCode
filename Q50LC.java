@@ -23,3 +23,4 @@ public class Q50LC {
         System.out.println(myPow(0.00001, 2147483647));
     }
 }
+//test
