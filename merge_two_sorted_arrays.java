@@ -27,8 +27,8 @@ public class merge_two_sorted_arrays {
 
     }
     public static void main(String[] args) {
-        int[] X = {5,8,9};
-        int[] Y = {4,7,8};
+        int[] X = {1,3};
+        int[] Y = {2};
         int[] m = merge(X, Y);
         for (int i = 0; i < m.length; i++) {
             System.out.print(m[i]+" ");
