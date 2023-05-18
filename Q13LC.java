@@ -10,7 +10,7 @@ public class Q13LC {
         int D = 500;
         int M = 1000;
 
-        char currentCharacter = '0',previousCharacter,nextCharacter;
+        char currentCharacter = '0',nextCharacter;
         
         int i=0;
         while(i<s.length()) {
