@@ -20,7 +20,7 @@ public class Q76LC {
         for (R = 0; R < s.length(); R++) {
             charR=s.charAt(R);
             window.put(charR,window.getOrDefault(charR,0)+1);
-            if (countT.containsKey(charR)&&(window.get(charR)==countT.get(charR))) {
+            if (countT.containsKey(charR)&&(window.get(charR).equals(countT.get(charR)))) {
                 have+=1;
             }
             while (have==need) {
